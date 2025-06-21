@@ -121,11 +121,11 @@ function App() {
   ]
 
   return (
-    <div className="min-h-screen bg-cyber-dark relative overflow-x-hidden">
+    <div className="min-h-screen bg-[#0a0a0f] text-white relative overflow-x-hidden">
       <Background />
       <Navigation activeSection={activeSection} />
 
-      <main>
+      <main className="relative z-10">
         <HeroSection />
         <AboutSection />
         <SkillsSection skills={skills} />
@@ -136,7 +136,7 @@ function App() {
       </main>
 
       {/* Footer */}
-      <footer className="py-8 px-4 border-t border-cyan-500/30 bg-cyber-dark/80 relative z-10">
+      <footer className="py-8 px-4 border-t border-cyan-500/30 bg-[#0a0a0f]/80 relative z-10">
         <div className="max-w-4xl mx-auto text-center">
           <p className="text-gray-400">
             <span className="text-cyan-400">&copy;</span> 2024 JOHN.DOE | NEURAL.ARCHITECTURE | QUANTUM.POWERED

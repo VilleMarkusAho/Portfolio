@@ -53,6 +53,12 @@ const config: Config = {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        // Cyber theme colors
+        "cyber-dark": "#0a0a0f",
+        "cyber-darker": "#050508",
+        "cyber-primary": "#00ffff",
+        "cyber-secondary": "#ff00ff",
+        "cyber-accent": "#00ff00",
       },
       borderRadius: {
         lg: "var(--radius)",
