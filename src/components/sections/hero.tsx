@@ -12,13 +12,12 @@ export function HeroSection() {
           <h1 className="text-4xl md:text-7xl font-bold mb-6 cyber-text-glow">
             <span className="text-white">INITIALIZING</span>
             <br />
-            <span className="text-cyan-400 typing-animation">JOHN.DOE</span>
+            <span className="text-cyan-400 typing-animation">Ville-Markus Aho</span>
           </h1>
         </div>
 
         <p className="text-xl md:text-2xl text-gray-300 mb-8 cyber-fade-in">
-          <span className="text-cyan-400">&gt;</span> Full Stack Developer | Neural Interface Architect
-          <span className="blinking-cursor">_</span>
+          <span className="text-cyan-400">&gt;</span> Full Stack Developer | IT engineer
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
@@ -45,9 +44,11 @@ export function HeroSection() {
           <a href="#" className="text-gray-400 hover:text-cyan-400 transition-all duration-300 hover:cyber-icon-glow">
             <Github className="h-8 w-8" />
           </a>
+          {/*
           <a href="#" className="text-gray-400 hover:text-cyan-400 transition-all duration-300 hover:cyber-icon-glow">
             <Linkedin className="h-8 w-8" />
           </a>
+          */}
           <a href="#" className="text-gray-400 hover:text-cyan-400 transition-all duration-300 hover:cyber-icon-glow">
             <Mail className="h-8 w-8" />
           </a>
