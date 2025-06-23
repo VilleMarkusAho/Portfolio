@@ -13,7 +13,7 @@ A futuristic, sci-fi themed portfolio built with React, TypeScript, and Vite. Fe
 
 ## 🚀 Getting Started
 
-The page is under construction but can still be visited at https://villemarkusaho.github.io/Portifolio/
+The page is under construction but can still be visited at https://villemarkusaho.github.io/Portfolio/
 
 ## 📄 License
 
