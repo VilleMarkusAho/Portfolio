@@ -1,7 +1,8 @@
 "use client"
 
 import { Button } from "../ui/button"
-import { Github, Linkedin, Mail, ChevronDown, Zap, Terminal } from "lucide-react"
+// import { Github, Linkedin, Mail, ChevronDown, Zap, Terminal } from "lucide-react"
+import { Github, Mail, ChevronDown, Zap, Terminal } from "lucide-react"
 import { scrollToSection } from "../../utils/navigation"
 
 export function HeroSection() {
