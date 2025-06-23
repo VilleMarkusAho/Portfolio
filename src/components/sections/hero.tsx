@@ -17,7 +17,7 @@ export function HeroSection() {
         </div>
 
         <p className="text-xl md:text-2xl text-gray-300 mb-8 cyber-fade-in">
-          <span className="text-cyan-400">&gt;</span> Full Stack Developer | IT engineer
+          <span className="text-cyan-400">&gt;</span> Full Stack Developer | IT Engineer
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
